@@ -1,0 +1,12 @@
+{
+  "name": "my-premium-site",
+  "version": "1.0.0",
+  "description": "A simple Express app for selling premium accounts",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
